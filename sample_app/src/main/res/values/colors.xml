@@ -1,0 +1,18 @@
+<resources>
+    <color name="bluetooth_blue">#5b5244</color>
+    <color name="light_gray">#66e0e0e0</color>
+
+    <color name="colorPrimary">#5b5244</color>
+    <color name="colorPrimaryDark">#5b5244</color>
+    <color name="colorAccent">#F06292</color>
+
+    <color name="colorSeparator">@color/colorAccent</color>
+
+    <color name="light_green">#26AE90</color>
+    <color name="black">#000</color>
+
+    <color name="light_white">#BEBCBF</color>
+    <color name="white">#fff</color>
+
+    <color name="light_black">#212A2F</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "845579185815",
+    "firebase_url": "https://peopletrack-b8fcf.firebaseio.com",
+    "project_id": "peopletrack-b8fcf",
+    "storage_bucket": "peopletrack-b8fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845579185815:android:9f5f5dbbdcbb0bf1",
+        "android_client_info": {
+          "package_name": "uk.co.alt236.btlescan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845579185815-rsjsqc6sb6vl5684m7u7c17ol2ipocdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uk.co.alt236.btlescan",
+            "certificate_hash": "90c448761e593f47df4bea4c173a74c07ca750f6"
+          }
+        },
+        {
+          "client_id": "845579185815-ohknlcvc4gjlho0iibvvd6qphn4chtma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASzoxnk6hH3sSLbvAU5Pd82hirzhbiAEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845579185815-ohknlcvc4gjlho0iibvvd6qphn4chtma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
